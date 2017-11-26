@@ -1,0 +1,7 @@
+com\intelect\service\UserServiceImpl.class
+com\intelect\util\CustomErrorType.class
+com\intelect\util\Response.class
+com\intelect\model\User.class
+com\intelect\rest\controller\IntelectRestApiController.class
+com\intelect\service\UserService.class
+com\intelect\application\SpringBootDemoApp.class
